@@ -1,0 +1,57 @@
+{
+  "departments/ARCH_\uac74\ucd95\uacf5\ud559\uc804\uacf5.md": {
+    "mtime": 1786275331.2274146,
+    "ast_hash": "fa95ee612df39b88dd4959eb26b6da56",
+    "semantic_hash": "fa95ee612df39b88dd4959eb26b6da56"
+  },
+  "departments/CHEMBIO_\ud654\ud559\uc0dd\uba85\uc18c\uc7ac\uc804\uacf5.md": {
+    "mtime": 1786275331.2294147,
+    "ast_hash": "775b742ae3df6d4ed682a6ab9b666c00",
+    "semantic_hash": "775b742ae3df6d4ed682a6ab9b666c00"
+  },
+  "departments/CHEMENG_\ud654\ud559\uacf5\ud559\uc804\uacf5.md": {
+    "mtime": 1786275331.2294147,
+    "ast_hash": "8a9f03b46576f3e00511310dcba0c882",
+    "semantic_hash": "8a9f03b46576f3e00511310dcba0c882"
+  },
+  "departments/CIVIL_\ud1a0\ubaa9\uacf5\ud559\uc804\uacf5.md": {
+    "mtime": 1786275331.2274146,
+    "ast_hash": "4509bb0a4f46c1a7c6c5d26d08bc8f1b",
+    "semantic_hash": "4509bb0a4f46c1a7c6c5d26d08bc8f1b"
+  },
+  "departments/IND_\uc0b0\uc5c5\uacf5\ud559\uc804\uacf5.md": {
+    "mtime": 1786275331.2274146,
+    "ast_hash": "60c2618209a2c44756d8d344dea62dd7",
+    "semantic_hash": "60c2618209a2c44756d8d344dea62dd7"
+  },
+  "departments/MATDES_\uc18c\uc7ac\ub514\uc790\uc778\uacf5\ud559\uc804\uacf5.md": {
+    "mtime": 1786275331.2294147,
+    "ast_hash": "ee2a6ba014359f02e078ec01cf14b1d2",
+    "semantic_hash": "ee2a6ba014359f02e078ec01cf14b1d2"
+  },
+  "departments/MATHDATA_\uc218\ub9ac\ube45\ub370\uc774\ud130\uc804\uacf5.md": {
+    "mtime": 1786275331.2284143,
+    "ast_hash": "d19a4e30871e2fd169ba2258123de9c9",
+    "semantic_hash": "d19a4e30871e2fd169ba2258123de9c9"
+  },
+  "departments/MSE_\uc2e0\uc18c\uc7ac\uacf5\ud559\uc804\uacf5.md": {
+    "mtime": 1786275331.2284143,
+    "ast_hash": "36cc2281d4df53999b56767436f9930c",
+    "semantic_hash": "36cc2281d4df53999b56767436f9930c"
+  },
+  "departments/POLY_\uace0\ubd84\uc790\uacf5\ud559\uc804\uacf5.md": {
+    "mtime": 1786275331.2284143,
+    "ast_hash": "8c21233750867d2dc696e0c3d96c0f81",
+    "semantic_hash": "8c21233750867d2dc696e0c3d96c0f81"
+  },
+  "overview.md": {
+    "mtime": 1786275331.2264147,
+    "ast_hash": "d88925fcfdc1b2fa8e96865a3b3a4b26",
+    "semantic_hash": "d88925fcfdc1b2fa8e96865a3b3a4b26"
+  },
+  "regulations/\ud559\uc0ac\uc6b4\uc601_\uaddc\uc815_202606.md": {
+    "mtime": 1786275331.8642461,
+    "ast_hash": "31aea0bb830a44643c9696685b6f521b",
+    "semantic_hash": "31aea0bb830a44643c9696685b6f521b"
+  }
+}

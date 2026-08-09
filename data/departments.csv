@@ -1,0 +1,10 @@
+﻿department_id,department_name,is_engineering_accredited
+ARCH,건축공학전공,0
+CIVIL,토목공학전공,0
+IND,산업공학전공,0
+MATHDATA,수리빅데이터전공,0
+POLY,고분자공학전공,1
+MSE,신소재공학전공,1
+MATDES,소재디자인공학전공,1
+CHEMENG,화학공학전공,1
+CHEMBIO,화학생명소재전공,0

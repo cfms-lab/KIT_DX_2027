@@ -1,0 +1,17 @@
+﻿issue_id,severity,issue_type,department_name,course_code,course_name,detail,source_table_index,source_row_index
+Q001,warning,possible_source_code_typo,건축공학전공,LA0508,일반물리학2,건축공학 표의 LA0508 일반물리학2는 타 전공의 LA0506 일반물리학2 및 LA0508 일반화학2와 충돌함. 원문 확인 필요.,73,5
+Q002,info,normalized_course_name,소재디자인공학전공,LA0502,일반물리학실험,LA0502 코드에 따라 일반물리학실험1로 정규화,460,4
+Q003,warning,course_code_multiple_names,,LA0508,일반물리학2; 일반화학2,동일 과목코드가 둘 이상의 정규화 과목명으로 나타남.,,
+Q004,info,course_name_multiple_codes,,EA1028; HA2016,공학연구1,동일 정규화 과목명이 둘 이상의 코드로 개설됨. 동일인정 여부는 별도 규정 확인 필요.,,
+Q005,info,course_name_multiple_codes,,EA1033; HA2032,공학연구2,동일 정규화 과목명이 둘 이상의 코드로 개설됨. 동일인정 여부는 별도 규정 확인 필요.,,
+Q006,info,course_name_multiple_codes,,EA1002; HA2004; HA3001,물리화학1,동일 정규화 과목명이 둘 이상의 코드로 개설됨. 동일인정 여부는 별도 규정 확인 필요.,,
+Q007,info,course_name_multiple_codes,,EA1008; HA2021; HA3008,물리화학2,동일 정규화 과목명이 둘 이상의 코드로 개설됨. 동일인정 여부는 별도 규정 확인 필요.,,
+Q008,info,course_name_multiple_codes,,EA2056; HA2019,반도체공정,동일 정규화 과목명이 둘 이상의 코드로 개설됨. 동일인정 여부는 별도 규정 확인 필요.,,
+Q009,info,course_name_multiple_codes,,EA1001; HA1004; HA2003; HA3002,유기화학1,동일 정규화 과목명이 둘 이상의 코드로 개설됨. 동일인정 여부는 별도 규정 확인 필요.,,
+Q010,info,course_name_multiple_codes,,EA1007; HA1020; HA2020; HA3009,유기화학2,동일 정규화 과목명이 둘 이상의 코드로 개설됨. 동일인정 여부는 별도 규정 확인 필요.,,
+Q011,info,course_name_multiple_codes,,LA0506; LA0508,일반물리학2,동일 정규화 과목명이 둘 이상의 코드로 개설됨. 동일인정 여부는 별도 규정 확인 필요.,,
+Q012,info,course_name_multiple_codes,,AA1025; EA2076,재료역학,동일 정규화 과목명이 둘 이상의 코드로 개설됨. 동일인정 여부는 별도 규정 확인 필요.,,
+Q013,info,course_name_multiple_codes,,DA1027; EA2039; HA2015,종합설계1,동일 정규화 과목명이 둘 이상의 코드로 개설됨. 동일인정 여부는 별도 규정 확인 필요.,,
+Q014,info,course_name_multiple_codes,,DA1033; EA2051; HA2031,종합설계2,동일 정규화 과목명이 둘 이상의 코드로 개설됨. 동일인정 여부는 별도 규정 확인 필요.,,
+Q015,info,course_name_multiple_codes,,EA0001; HA0001,창의입문설계,동일 정규화 과목명이 둘 이상의 코드로 개설됨. 동일인정 여부는 별도 규정 확인 필요.,,
+Q016,info,course_name_multiple_codes,,EA1009; HA2002,화공양론,동일 정규화 과목명이 둘 이상의 코드로 개설됨. 동일인정 여부는 별도 규정 확인 필요.,,
